@@ -1,5 +1,6 @@
 # Setup
 - Download the desired COCO instances dataset
+- Install `jq` with: `brew install jq`
 - `pip install --user -r requirements.txt` or however you like to include dependencies
 
 # Running
